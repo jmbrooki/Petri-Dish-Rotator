@@ -1,0 +1,1 @@
+This open source petri dish media rotator is designed to replace a ~$400 labratory rotator. The best assembly method will be to print one of part, then modify the motor shaft hole to fit the drive of your choosing.
